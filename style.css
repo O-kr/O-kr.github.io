@@ -4,3 +4,10 @@
 body {
 	font-family: 'Roboto', sans-serif;
 }
+.header {
+	background-color: red;
+}
+.container {
+	width: 1170px;
+	margin:0 auto;
+}
